@@ -1,0 +1,29 @@
+{
+  "name": "database_lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jest": "^25.1.4",
+    "eslint": "^6.8.0",
+    "jest": "^25.1.0"
+  },
+  "scripts": {
+    "test": "jest",
+    "test:watch": "npm run test -- --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hannahriley33/database_lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hannahriley33/database_lab/issues"
+  },
+  "homepage": "https://github.com/hannahriley33/database_lab#readme"
+}
