@@ -15,6 +15,7 @@
   "scripts": {
     "test": "jest",
     "test:watch": "npm run test -- --watch"
+    
   },
   "repository": {
     "type": "git",
